@@ -2,7 +2,7 @@
 Build a binary classifier using Logistic Regression.
 
 2.Dataset:
-Used Breast Cancer Wisconsin dataset (or a custom CSV file).
+Used Breast Cancer Wisconsin dataset
 
 3.Tools Used:
 Python
